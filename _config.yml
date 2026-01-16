@@ -1,1 +1,3 @@
 title: MWE Test Site
+baseurl: "/test_website"
+url: "https://naomisolomons.github.io"
